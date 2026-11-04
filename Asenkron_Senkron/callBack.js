@@ -9,3 +9,5 @@ function getSurname(){
     console.log("Bal");
 }
 
+getName();
+getSurname();
