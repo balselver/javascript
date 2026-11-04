@@ -39,6 +39,7 @@ function getSurname1(name, callback){
     }, 500);
 }
 
+<<<<<<< HEAD
 //getName1(getSurname);
 // bir fonksiyona parametre geçmeye callback denir.
 getName1((name)=>{
@@ -76,3 +77,7 @@ git fetch origin --prune
 git push -u origin main
 
 github sorun oluşursa */
+=======
+getName();
+getSurname();
+>>>>>>> 16f5ff558013332c3d2211abba2148815fa69e8d
