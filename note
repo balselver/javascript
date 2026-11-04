@@ -1,4 +1,0 @@
-git fetch origin --prune
-git push -u origin main
-
-github sorun oluşursa

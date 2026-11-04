@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "firstName" : "Sema",
+        "lastName" : "Bal"
+    },
+    {
+        "id" : 2,
+        "firstName" : "Eren",
+        "lastName" : "Uzunoğlu"
+    },
+    {
+        "id" : 3,
+        "firstName" : "Ali Göktuğ",
+        "lastName" : "Bal"
+    },
+    {
+        "id" : 4,
+        "firstName" : "Ahsen Ebrar",
+        "lastName" : "Bal"
+    }
+]
