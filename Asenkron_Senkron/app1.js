@@ -33,7 +33,8 @@ const users = [
 
 //1 userId
 //2 post by userId
-
+//burada herhangi bir çıktı alamayız çünkü userıd bilgisi alınamadan post bilgisi istenir ve bu da değer döndürmez
+//bu sorunu CALLBACK - PROMISE - ASYNC & AWIT yönemleri ile çözebiliriz
 function getUserID() {
     setTimeout(() => {
         //servise gittik ve cevabı aldık
